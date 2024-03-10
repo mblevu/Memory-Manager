@@ -1,4 +1,4 @@
-# Bitnine Memory Manager "clone"
+# Memory Manager
 
 In this project, I have implemented a comprehensive, robust and efficient memory manager in C that has been tested with
 different scenarios. Please note that this can be expanded beyond limits.
